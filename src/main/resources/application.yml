@@ -1,0 +1,5 @@
+operation.processing:
+    sleepMilliSeconds: 100
+
+database:
+  pathToDataFile: operationData.txt
